@@ -1,6 +1,6 @@
 Hello, World!
-Learning C#
-
+  student of information systems
+  ongoing training :)
 <!---
 luangmrs/luangmrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
