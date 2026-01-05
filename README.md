@@ -3,7 +3,7 @@
   # Olá, sou o Luan Guimarães! 👋
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Information+Systems+Student;Enthusiast;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Information+Systems;Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 
 </div>
@@ -29,17 +29,6 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através da tec
 | <img src="https://skillicons.dev/icons?i=cs,dotnet,c,git,nodejs,postgres,mongodb,js,python" /> | <img src="https://skillicons.dev/icons?i=java,aws,azure" /> |
 
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luangmrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luangmrs&layout=compact&theme=dracula"/>
-</div>
-
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luan-guimar%C3%A3es-2a540a213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
